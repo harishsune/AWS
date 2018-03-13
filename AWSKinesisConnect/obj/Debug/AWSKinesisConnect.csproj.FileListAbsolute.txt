@@ -1,0 +1,13 @@
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSKinesisConnect.exe.config
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSKinesisConnect.exe
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSKinesisConnect.pdb
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSSDK.Core.dll
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSSDK.Kinesis.dll
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSSDK.Core.pdb
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSSDK.Core.xml
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSSDK.Kinesis.pdb
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\bin\Debug\AWSSDK.Kinesis.xml
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\obj\Debug\AWSKinesisConnect.csprojResolveAssemblyReference.cache
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\obj\Debug\AWSKinesisConnect.exe
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\obj\Debug\AWSKinesisConnect.pdb
+D:\Training\AWS\AWSKinesisConnect\AWSKinesisConnect\AWSKinesisConnect\obj\Debug\AWSKinesisConnect.csproj.CoreCompileInputs.cache

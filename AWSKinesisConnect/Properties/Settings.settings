@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AWSKinesisConnect.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SecretAccess" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5T90LiSeI9MRuD0/enF6jkMat9lCwjofbb01cSjc</Value>
+    </Setting>
+    <Setting Name="AccessKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AKIAIZCXABO5IS3VCZMQ</Value>
+    </Setting>
+    <Setting Name="SessionToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FQoDYXdzEIf//////////wEaDBys1NFJPpqaZxjBoCKsAfA11WFUm7zVEJ/Bgrmequ5BFAuw1RXDer6m9n2Tze6FI+lTAyogNAqDGE+iFtSTuO15qeUlO/xubKRtTvA1AJ74DqMHm7MyFs0hikD5VQ+bKBG7nmGlUv96vg/2iY4gl2BGjX9y92DWIkZkxYTFH+ByXkvwbXqI7Yh+8bOd4MeUdroJZct7w/DoJVjQRBM61elltn50qH8lpU8ZvfUzn9nTm67zzS340W5dZ3Mood3f0wU=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
